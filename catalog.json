@@ -1,0 +1,162 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "shortname": "electronics",
+      "notes": "Latest gadgets and devices."
+    },
+    {
+      "id": 2,
+      "name": "Books",
+      "shortname": "books",
+      "notes": "A collection of bestsellers and classics."
+    },
+    {
+      "id": 3,
+      "name": "Clothing",
+      "shortname": "clothing",
+      "notes": "Fashionable and comfortable."
+    },
+    {
+      "id": 4,
+      "name": "Specials",
+      "shortname": "specials",
+      "notes": "Random category of products."
+    }
+  ],
+  "products": {
+    "electronics": [
+      {
+        "id": 1,
+        "name": "Smartphone",
+        "description": "Latest 5G smartphone.",
+        "price": "$799",
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 2,
+        "name": "Laptop",
+        "description": "High-performance laptop.",
+        "price": "$1200",
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 3,
+        "name": "Tablet",
+        "description": "Portable and powerful tablet.",
+        "price": "$499",
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 4,
+        "name": "Smartwatch",
+        "description": "Track your fitness and notifications.",
+        "price": "$199",
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 5,
+        "name": "Wireless Earbuds",
+        "description": "High-quality sound without wires.",
+        "price": "$99",
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 6,
+        "name": "Gaming Console",
+        "description": "Experience next-gen gaming.",
+        "price": "$499",
+        "image": "https://via.placeholder.com/200"
+      }
+    ],
+    "books": [
+      {
+        "id": 1,
+        "name": "Mystery Novel",
+        "description": "A thrilling mystery novel.",
+        "price": "$15",
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 2,
+        "name": "Science Book",
+        "description": "Explore the wonders of science.",
+        "price": "$25",
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 3,
+        "name": "Fantasy Adventure",
+        "description": "An epic fantasy tale.",
+        "price": "$20",
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 4,
+        "name": "Self-Help Guide",
+        "description": "Improve yourself with this guide.",
+        "price": "$18",
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 5,
+        "name": "Cookbook",
+        "description": "Delicious recipes from around the world.",
+        "price": "$30",
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 6,
+        "name": "History Book",
+        "description": "Learn about significant historical events.",
+        "price": "$22",
+        "image": "https://via.placeholder.com/200"
+      }
+    ],
+    "clothing": [
+      {
+        "id": 1,
+        "name": "T-Shirt",
+        "description": "Comfortable cotton T-shirt.",
+        "price": "$20",
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 2,
+        "name": "Jeans",
+        "description": "Stylish denim jeans.",
+        "price": "$50",
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 3,
+        "name": "Jacket",
+        "description": "Warm and cozy jacket.",
+        "price": "$80",
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 4,
+        "name": "Sneakers",
+        "description": "Comfortable and trendy sneakers.",
+        "price": "$60",
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 5,
+        "name": "Cap",
+        "description": "Stylish cap for sunny days.",
+        "price": "$15",
+        "image": "https://via.placeholder.com/200"
+      },
+      {
+        "id": 6,
+        "name": "Sweater",
+        "description": "Warm sweater for chilly days.",
+        "price": "$40",
+        "image": "https://via.placeholder.com/200"
+      }
+    ]
+  }
+}
